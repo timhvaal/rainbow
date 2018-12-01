@@ -1,0 +1,7 @@
+red
+orange
+yellow
+green
+blue
+violet
+these are the colours of the rainbow
