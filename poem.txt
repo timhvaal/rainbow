@@ -2,6 +2,7 @@ infra red
 red
 orange
 yellow
+beige
 green
 blue
 violet
