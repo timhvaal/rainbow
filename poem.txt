@@ -1,5 +1,3 @@
-infra red
-red
 orange
 yellow
 beige
@@ -11,3 +9,6 @@ these are the colours of the rainbow
 there is a leprechaun at the end of the rainbow
 at the end of a rainbow is a leprechaun
 they guard a pot of gold
+int = diff
+What was i thinking
+Let's write something else and get rid of infra red
